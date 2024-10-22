@@ -16,7 +16,7 @@ jobs:
         with:
            perfai-username: ${{ secrets.PERFAI_USERNAME }}
            perfai-password: ${{ secrets.PERFAI_PASSWORD }}
-           perfai-api-id: "6716bcd39cf8cde988331bd5"
+           perfai-api-id: "670968577223ce88cd6f87aa"
            perfai-api-name: "oct15 GA"
            perfai-wait-for-completion: "true"
 
